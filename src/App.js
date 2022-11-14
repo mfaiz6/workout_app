@@ -16,7 +16,6 @@ function App() {
         <Route path="/exercises/:id" element={<ExerciseDetail />} />
       </Routes>
       <Footer />
-
     </Box>
   );
 }
